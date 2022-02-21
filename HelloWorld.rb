@@ -1,3 +1,4 @@
+#gem install discord.rb
 require 'discordrb'
 
 TOKEN =  ''
